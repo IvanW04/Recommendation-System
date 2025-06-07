@@ -5,7 +5,7 @@ Steps to run my recommendation system:
 
 • Use Google Colab
 
-• Make sure you use the T4 GPU
+• Make sure you use the T4 GPU (top right)
 
 • Drag the python notebook into Colab
 
